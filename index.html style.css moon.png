@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Just a jealous moon</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <p class="text">
+      Hey Sanchita,<br>
+      look… someone is getting very jealous of you.
+    </p>
+
+    <img src="moon.png" class="moon" alt="jealous moon">
+  </div>
+
+</body>
+</html>          
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Just a jealous moon</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <p class="text">
+      Hey Sanchita,<br>
+      look… someone is getting very jealous of you.
+    </p>
+
+    <img src="moon.png" class="moon" alt="jealous moon">
+  </div>
+
+</body>
+</html>
